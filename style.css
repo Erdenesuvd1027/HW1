@@ -1,0 +1,27 @@
+    body { 
+        background-color:#E3F4F0; 
+    }
+
+    h2 {
+        color: midnightblue;
+        text-align: center;
+    }
+
+    table, td {
+             border:1px solid black;
+             padding: 10px 10px ;
+             width:350%, fit-content;  
+            }
+
+
+    p {
+        font-size: 14px;
+        font-family: 'Times New Roman', Times, serif;
+        margin: 20,30,20;
+        font-style: italic;
+    }
+
+    ul {
+        list-style-type: circle;
+      }
+      
